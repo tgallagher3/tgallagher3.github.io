@@ -1,3 +1,8 @@
+h2, .post-title {
+  color: #4fc3f7; /* light blue 1 */
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: bold;
+}
 body {
   font-family: 'Avenir Next LT Pro Demi', sans-serif;
   margin: 0;
