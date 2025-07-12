@@ -7,9 +7,24 @@ body {
   font-family: 'Avenir Next LT Pro Demi', sans-serif;
   margin: 0;
   padding: 0;
-  background: url('background.jpg') no-repeat center center fixed;
-  background-size: cover;
+  background: #f5f7fa;
   color: #333;
+}
+
+.top-image {
+  width: 100%;
+  max-height: 350px;
+  object-fit: cover;
+  display: block;
+}
+
+.site-title {
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: bold;
+  color: #153a5b;
+  font-size: 3rem;
+  margin: 2rem 0 0.5rem 2rem;
+  letter-spacing: 1px;
 }
 
 header {
